@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a B.Tech Computer Science student who is focused on becoming a skilled full stack developer, mainly working with the MERN stack (React, Node.js, Express, and MongoDB). I am very interested in building real-world applications rather than just learning theory, and I enjoy creating projects like AI-based interview platforms, story generation tools, and gamified awareness apps. I have a strong interest in combining artificial intelligence with web development to build smart and interactive systems, especially in areas like education and learning. I consider myself a curious and growth-oriented person who always looks for ways to improve my projects, technical skills, and overall knowledge. At the same time, I am working on improving my communication skills, particularly my spoken English, and strengthening my core fundamentals. Overall, I am an ambitious learner who enjoys building practical solutions, exploring new ideas, and continuously working toward becoming an industry-ready developer.
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saiprasad6169) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saiprasad-andugule-743a0032b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saiprasadandugule@gmail.com) 
